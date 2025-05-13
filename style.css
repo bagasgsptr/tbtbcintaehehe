@@ -119,7 +119,7 @@ body {
 
 /* interior pages styles */
 #page1 .front {
-  font-size:1.5vh;
+  font-size:5px;
   letter-spacing:2vh;
   line-height:50vh;
   font-weight:900;
@@ -241,7 +241,7 @@ body {
 }
 
 #page5 .back {
-  font-size:1.5vh;
+  font-size:5px;
   letter-spacing:2vh;
   line-height:50vh;
   font-weight:900;
