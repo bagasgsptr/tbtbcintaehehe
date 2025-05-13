@@ -119,8 +119,8 @@ body {
 
 /* interior pages styles */
 #page1 .front {
-  font-size:10px;
-  letter-spacing:2vh;
+  font-size:5px;
+  letter-spacing:0.9vh;
   line-height:50vh;
   font-weight:900;
   text-align:right;
